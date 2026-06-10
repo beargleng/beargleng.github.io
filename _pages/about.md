@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qingyang Xiong 熊清揚"
+title: "Qingyang Xiong"
 author_profile: true
 redirect_from: 
   - /about/
