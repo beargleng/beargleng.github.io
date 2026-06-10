@@ -15,4 +15,4 @@ I am excited to further explore the dynamics governing TCs from genesis to peak 
 
 You can find my CV here: [Qingyang's CV](../assets/CV.pdf).
 
-[Email](hsiungbear233@gmail.com)/[Github](github.com/beargleng)/[Zhihu](https://www.zhihu.com/people/b-g-22)
+[Email](mailto:hsiungbear233@gmail.com)/[Github](https://github.com/beargleng)/[Zhihu](https://www.zhihu.com/people/b-g-22)
