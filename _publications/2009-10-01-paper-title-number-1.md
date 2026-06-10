@@ -1,9 +1,9 @@
 ---
-title: "The Intrinsic Timing Relationship Between Tropical CycloneMaximum Intensification Rate and Lifetime MaximumIntensity"
+title: "The Intrinsic Timing Relationship Between Tropical Cyclone Maximum Intensification Rate and Lifetime Maximum Intensity"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'The intensification rate (IR) equation, derived from a time‐dependent simplified energeticallybased dynamical system (EBDS), links tropical cyclone (TC) intensity, IR, and their evolutions, suggesting aconnection between the timing of TC lifetime maximum intensity (LMI) and the maximum intensification rate(MIR). This study demonstrates that the IR equation predicts MIR typically preceding LMI within 36 hr, asconfirmed by numerical simulation and analysis of best track data. It was observed that the majority of globalTCs reached LMIs within 36 hr after MIR from 1982 to 2023. This consistency between observational data,numerical simulations and analytical results highlights the EBDS‐based IR equation's ability in capturing thetiming relationship between MIR and LMI. This intrinsic link highlights the importance of understanding thetiming of MIR in the evolution of TCs.'
+excerpt: 'The intensification rate (IR) equation, derived from a time‐dependent simplified energetically based dynamical system (EBDS), links tropical cyclone (TC) intensity, IR, and their evolutions, suggesting aconnection between the timing of TC lifetime maximum intensity (LMI) and the maximum intensification rate (MIR). This study demonstrates that the IR equation predicts MIR typically preceding LMI within 36 hr, asconfirmed by numerical simulation and analysis of best track data. It was observed that the majority of globalTCs reached LMIs within 36 hr after MIR from 1982 to 2023. This consistency between observational data,numerical simulations and analytical results highlights the EBDS‐based IR equation's ability in capturing thetiming relationship between MIR and LMI. This intrinsic link highlights the importance of understanding the timing of MIR in the evolution of TCs.'
 date: '2025-05-05'
 venue: 'Geophysical Research Letters'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
