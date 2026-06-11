@@ -11,42 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ph.D in Tropical Cyclone, City University of Hong Kong, 2029 (expected)
+* M.S. in Physical Oceanography, Second Institute of Oceanography, MNR, 2025
+* B.S. in Atmospheric Sciences, Nanjing University of Information Science & Technology, 2022
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, \\(\LaTeX\\), Matlab, Fortran
+* Professional: Dynamic Meteorology, [tcpyPI](https://github.com/dgilford/tcpyPI), WRF/CM1 Simulation
+* Languages: English, Mandarin, Cantonese
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+{% comment %}
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -62,3 +44,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+{% endcomment %}
