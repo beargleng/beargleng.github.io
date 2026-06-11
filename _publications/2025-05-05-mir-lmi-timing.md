@@ -25,7 +25,7 @@ $$
 \Delta t = \frac{\Delta t^*}{\kappa V_{\mathrm{MPI}}}
 $$
 
-where $\Delta t^*$ is a nondimensional constant, $\kappa$ is an environmental parameter that can be treated as approximately constant, and $V_{\mathrm{MPI}}$ is the maximum potential intensity. This relationship indicates that the timing difference between MIR and LMI is inversely proportional to the maximum potential intensity, suggesting that a larger MPI generally corresponds to a shorter MIR–LMI time interval.
+where \(\Delta t^*\) is a nondimensional constant, $\kappa$ is an environmental parameter that can be treated as approximately constant, and \(V_{\mathrm{MPI}}\) is the maximum potential intensity. This relationship indicates that the timing difference between MIR and LMI is inversely proportional to the maximum potential intensity, suggesting that a larger MPI generally corresponds to a shorter MIR–LMI time interval.
 
 <figure>
   <img src="/images/publications/mir-lmi/fig2.png" alt="WRF idealized simulations of TC intensity evolution and MIR-LMI timing difference" style="width:100%; max-width:850px;">
@@ -53,7 +53,7 @@ $$
 \Delta t = \frac{\Delta t^*}{\kappa V_{\mathrm{MPI}}}
 $$
 
-其中，$\Delta t^*$ 是无量纲常数，$\kappa$ 是一个可近似看作常值的环境参数，$V_{\mathrm{MPI}}$ 是热带气旋最大潜在强度。该方程表明，热带气旋最大增强率与生命史最大强度之间的时间差与最大潜在强度成反比关系，即更高的最大潜在强度通常对应更短的 MIR–LMI 时间间隔。
+其中，\(\Delta t^*\) 是无量纲常数，\(\kappa\) 是一个可近似看作常值的环境参数，\(V_{\mathrm{MPI}}\) 是热带气旋最大潜在强度。该方程表明，热带气旋最大增强率与生命史最大强度之间的时间差与最大潜在强度成反比关系，即更高的最大潜在强度通常对应更短的 MIR–LMI 时间间隔。
 
 本研究进一步使用 WRF 理想实验对理论结果进行了验证。四组不同的海温状态用于控制热带气旋最大潜在强度的大小，每组实验包含 10 次独立运行。结果表明，模式理想台风的最大增强率与生命史最大强度之间的时间差与海温大小，也即最大潜在强度大小，呈反比关系，并且该时间差大致位于 36 小时以内。
 
