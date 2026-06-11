@@ -12,14 +12,14 @@ citation: "Xiong, Q., & Wu, Q. (2025). The intrinsic timing relationship between
 ---
 ## Summary
 
-The severity of tropical-cyclone-related hazards is closely linked to the intensity that a storm ultimately attains, and lifetime maximum intensity (LMI) is a key metric for characterizing TC intensity. Previous studies have mainly focused on the maximum intensity that TCs may potentially reach, whereas the timing of reaching LMI has received less attention. Based on an intensification-rate equation derived from a time-dependent simplified energetically based dynamical system, this study shows that the maximum intensification rate (MIR) typically occurs within 36 hours before LMI. This conclusion is supported by both numerical simulations and observational best-track analyses.
+The severity of tropical cyclone (TC) related hazards is closely linked to the intensity that a storm ultimately attains, and lifetime maximum intensity (LMI) is a key metric for characterizing TC intensity. Previous studies have mainly focused on the maximum intensity that TCs may potentially reach, whereas the timing of reaching LMI has received less attention. Based on an intensification rate (IR) equation derived from a time dependent simplified energetically based dynamical system (EBDS), this study shows that the maximum intensification rate (MIR) typically occurs within 36 hours before LMI. This conclusion is supported by both numerical simulations and observational best-track dataset.
 
 <figure>
   <img src="/images/publications/mir-lmi/fig1.png" alt="Timing difference between MIR and LMI as a function of MPI and initial intensity" style="width:100%; max-width:850px;">
   <figcaption><strong>Figure 1.</strong> Timing difference between the maximum intensification rate and lifetime maximum intensity as a function of maximum potential intensity and initial intensity. (a) Analytical solution; (b) numerical solution.</figcaption>
 </figure>
 
-By nondimensionalizing and solving the time-dependent TC intensification-rate equation, this study obtains a theoretical relationship between the timing of MIR and LMI:
+By nondimensionalizing and solving the time dependent TC IR equation, this study obtains a theoretical relationship between the timing of MIR and LMI:
 
 $$
 \Delta t = \frac{\Delta t^*}{\kappa V_{\mathrm{MPI}}}
@@ -32,14 +32,14 @@ where $\Delta t^*$ is a nondimensional constant, $\kappa$ is an environmental pa
   <figcaption><strong>Figure 2.</strong> (a) TC intensity evolution in idealized WRF simulations, with thin lines indicating individual experiments and thick lines indicating ensemble means for each group. (b) Boxplots of the timing difference between the maximum intensification rate and lifetime maximum intensity for each group of experiments.</figcaption>
 </figure>
 
-The theoretical results are further evaluated using idealized WRF simulations. Four sea-surface temperature conditions are used to regulate the maximum potential intensity of simulated TCs, with 10 independent experiments conducted for each group. The simulations show that the timing difference between MIR and LMI decreases as sea-surface temperature, and thus maximum potential intensity, increases. The simulated MIR–LMI timing difference is generally within approximately 36 hours.
+The theoretical results are further evaluated using idealized WRF simulations. Four sea surface temperature conditions are used to regulate the maximum potential intensity (MPI) of simulated TCs, with 10 independent experiments conducted for each group. The simulations show that the timing difference between MIR and LMI decreases as sea surface temperature, and thus maximum potential intensity, increases. The simulated MIR–LMI timing difference is generally within approximately 36 hours.
 
 <figure>
   <img src="/images/publications/mir-lmi/fig3.png" alt="Frequency distributions of the timing difference between MIR and LMI for global tropical cyclones from 1982 to 2023" style="width:100%; max-width:850px;">
   <figcaption><strong>Figure 3.</strong> Frequency distributions of the timing difference between the maximum intensification rate and lifetime maximum intensity for global tropical cyclones during 1982–2023. (a–c) MIR timing is defined as the ending time of the intensification event. (d–f) MIR timing is defined as the midpoint time of the intensification event.</figcaption>
 </figure>
 
-Statistical analyses of observational best-track data show that the timing difference between MIR and LMI for global TCs during 1982–2023 is mostly within 36 hours. This feature is broadly consistent across different ocean basins and TC intensity categories. The agreement among theoretical analysis, numerical simulations, and observations suggests that the time-dependent energetically based dynamical system effectively captures the intrinsic timing relationship between MIR and LMI. This intrinsic link highlights the importance of understanding the timing of MIR for interpreting TC intensity evolution.
+Statistical analyses of observational best-track dataset show that the timing difference between MIR and LMI for global TCs during 1982–2023 is mostly within 36 hours. This feature is broadly consistent across different ocean basins and TC intensity categories. The agreement among theoretical analysis, numerical simulations, and observations suggests that the time-dependent energetically based dynamical system effectively captures the intrinsic timing relationship between MIR and LMI. This intrinsic link highlights the importance of understanding the timing of MIR for interpreting TC intensity evolution.
 
 ---
 
