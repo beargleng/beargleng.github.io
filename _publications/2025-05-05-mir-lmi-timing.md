@@ -8,6 +8,7 @@ date: 2025-05-05
 venue: "Geophysical Research Letters"
 slidesurl: "https://academicpages.github.io/files/slides1.pdf"
 paperurl: "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2024GL113158"
+show_downloads: false
 citation: "Xiong, Q., & Wu, Q. (2025). The intrinsic timing relationship between tropical cyclone maximum intensification rate and lifetime maximum intensity. Geophysical Research Letters, 52, e2024GL113158."
 ---
 ## Summary
@@ -58,4 +59,3 @@ $$
 本研究进一步使用 WRF 理想实验对理论结果进行了验证。四组不同的海温状态用于控制热带气旋最大潜在强度的大小，每组实验包含 10 次独立运行。结果表明，模式理想台风的最大增强率与生命史最大强度之间的时间差与海温大小，也即最大潜在强度大小，呈反比关系，并且该时间差大致位于 36 小时以内。
 
 观测数据的统计结果显示，1982–2023 年全球热带气旋的最大增强率与生命史最大强度之间的时间差主要分布在 36 小时以内，并且这一特征在不同海盆和不同强度等级的热带气旋中均较为稳定。观测数据、数值模拟与理论分析结果的一致性表明，时间依赖的基于能量的简单动力学系统能够有效捕捉热带气旋最大增强率与生命史最大强度之间的内在时间关系。这一内在关系凸显了理解最大增强率发生时刻对于把握热带气旋强度演变规律的重要性。
-
