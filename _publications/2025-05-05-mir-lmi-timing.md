@@ -7,8 +7,9 @@ excerpt: "The intensification rate (IR) equation, derived from a time-dependent 
 date: 2025-05-05
 venue: "Geophysical Research Letters"
 slidesurl: "https://academicpages.github.io/files/slides1.pdf"
-paperurl: "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2024GL113158"
+paperurl: "/files/grl-xiong-wu-2025.pdf"
 show_downloads: false
+show_paper: true
 citation: "Xiong, Q., & Wu, Q. (2025). The intrinsic timing relationship between tropical cyclone maximum intensification rate and lifetime maximum intensity. Geophysical Research Letters, 52, e2024GL113158."
 ---
 ## Summary
