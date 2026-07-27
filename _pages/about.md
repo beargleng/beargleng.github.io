@@ -9,7 +9,7 @@ redirect_from:
 
 I am a first-year PhD candidate in the College of Engineering at [City University of Hong Kong](https://www.cityu.edu.hk/).
 
-I obtained a Bachelor's degree in Atmospheric Science from [Nanjing University of Information Science and Technology](https://www.nuist.edu.cn/), followed by a Master's degree in Physical Oceanography under the supervision of Professor [Qiaoyan Wu](https://scholar.google.com/citations?user=xtOljf4AAAAJ&hl=en), and I am currently supervised by Professor [Ping Lu](https://scholars.cityu.edu.hk/en/persons/plu222/). 
+I obtained a Bachelor's degree in Atmospheric Science from [Nanjing University of Information Science and Technology](https://www.nuist.edu.cn/), followed by a Master's degree in Physical Oceanography under the supervision of Professor [Qiaoyan Wu](https://scholar.google.com/citations?user=xtOljf4AAAAJ&hl=en), and I currently collaborate with Professor [Ping Lu](https://scholars.cityu.edu.hk/en/persons/plu222/).
 
 My research focuses on tropical cyclone (TC) dynamics, with particular interests in intensification, eyewall replacement cycles (ERC), and climatology of TCs. 
 
