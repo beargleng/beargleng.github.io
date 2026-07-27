@@ -51,7 +51,7 @@ layout: default
 
         {% if page.show_downloads == false %}
           {% if page.citation %}
-            <p style="font-size: smaller">Recommended citation: {{ page.citation }}</p>
+            <p style="font-size: smaller">Recommended citation: {{ page.citation }}{% if page.show_paper and page.paperurl %}<br /><a href="{{ page.paperurl }}">Download Paper</a>{% endif %}</p>
           {% endif %}
         {% elsif page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
