@@ -19,4 +19,4 @@ Outside of doing research, I enjoy playing basketball, traveling and keeping tra
 
 You can find my CV here: [Qingyang's CV](../assets/CV.pdf).
 
-I share experiences and reflections on studying atmospheric science on [Zhihu](https://www.zhihu.com/people/b-g-22).
+I share my experiences and notes on studying atmospheric science on [Zhihu](https://www.zhihu.com/people/b-g-22).
